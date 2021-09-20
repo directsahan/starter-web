@@ -1,6 +1,6 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Github together. Rebase example.
+This is a simple website project for showing how to use Git and Github together. Updating emergency fic after stashing.
 
 ## Introduction
 
